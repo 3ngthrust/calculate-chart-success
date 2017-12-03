@@ -20,6 +20,7 @@ Example
 All the songs Max Martin contributed to (according to his Wikipedia discography writer and/or producer) are listed in 'songs_max_martin_02_12_17'. (Duplicates do not matter, since they are removed in the script.) 
 
 Result:
+
 .. figure:: https://raw.githubusercontent.com/3ngthrust/calculate-chart-success/master/Max_Martin_Chart_Success.png
    :alt: Max Martin chart success example
    :align: center
