@@ -20,7 +20,9 @@ Example
 All the songs Max Martin contributed to (according to his Wikipedia discography writer and/or producer) are listed in 'songs_max_martin_02_12_17'. (Duplicates do not matter, since they are removed in the script.) 
 
 Result:
-
+.. figure:: https://github.com/3ngthrust/calculate-chart-success/blob/master/Max_Martin_Chart_Success.png
+   :alt: Max Martin chart success example
+   :align: center
 
 
 The value for 1995 should be zero, but three identically named songs from other artists 'Creep' (TLC), 'I Believe' (Robson & Jerome) and 'I kissed a girl' (Jill Sobule) are counted as seen in 'output_max_martin_02_12_17'. Because of reused song titles (small) variations have to be expected.
