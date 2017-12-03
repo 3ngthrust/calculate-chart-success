@@ -13,7 +13,7 @@ Usage
 
 Dependencies
 ------------
-This script needs [billboard.py](https://github.com/guoguo12/billboard-charts) from [guoguo12](https://github.com/guoguo12). 
+This script uses [billboard.py](https://github.com/guoguo12/billboard-charts) from [guoguo12](https://github.com/guoguo12). 
 
 Example
 -------
