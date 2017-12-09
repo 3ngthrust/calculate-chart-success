@@ -3,6 +3,8 @@ A script to evaluate the chart success of an artist, writer or producer on a bil
 
 The simple metric calculated is as follows: A no. 1 song is valued as 100, a no. 2 song is valued as 99, etc., a no. 100 song is valued as 1. All song values of each chart of each year are added together.
 
+A more accurate version of this which also thakes the artists into account is implemented in [calculate-chart-success-2](https://github.com/3ngthrust/calculate-chart-success-2).
+
 Usage
 -----
 1. Create a list of all the songs the person you want to evaluate worked on. Go to the discography of this person on Wikipedia. Select the whole table with the songs (Ctrl+C). Copy the table to libre office (Ctrl+V). Select the column with the song titles in libre office. Copy them (Ctrl+C) in libre and paste them into an an editor. Remove empty lines (Regex to find the lines: ^\n) and ". The result should be a list like the example 'songs_max_martin_02_12_17' here.
